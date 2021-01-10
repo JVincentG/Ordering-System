@@ -1,0 +1,7 @@
+C:\Users\Vincent\source\repos\ordering\ordering\bin\Debug\ordering.exe.config
+C:\Users\Vincent\source\repos\ordering\ordering\bin\Debug\ordering.exe
+C:\Users\Vincent\source\repos\ordering\ordering\bin\Debug\ordering.pdb
+C:\Users\Vincent\source\repos\ordering\ordering\obj\Debug\ordering.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\ordering\ordering\obj\Debug\ordering.exe
+C:\Users\Vincent\source\repos\ordering\ordering\obj\Debug\ordering.pdb
+C:\Users\Vincent\source\repos\ordering\ordering\obj\Debug\ordering.csproj.CoreCompileInputs.cache

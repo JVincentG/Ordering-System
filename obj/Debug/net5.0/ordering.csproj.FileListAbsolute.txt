@@ -1,0 +1,5 @@
+C:\Users\Vincent\source\repos\ordering\obj\Debug\net5.0\ordering.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\ordering\obj\Debug\net5.0\ordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent\source\repos\ordering\obj\Debug\net5.0\ordering.AssemblyInfoInputs.cache
+C:\Users\Vincent\source\repos\ordering\obj\Debug\net5.0\ordering.AssemblyInfo.cs
+C:\Users\Vincent\source\repos\ordering\obj\Debug\net5.0\ordering.csproj.CoreCompileInputs.cache
